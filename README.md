@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About me
 
-Frontend developer mid-career-switch. By day a **food technologist** (fish & seafood, BRC/IFS/HACCP), by night I build apps in **React**. I bring those two worlds together on purpose — domain knowledge from the food industry is my edge when designing the kind of niche B2B tools an average developer wouldn't think to build.
+Frontend developer mid-career-switch. By day a **food technologist** (fish competence tehnologist), by night I build apps in **React**. I bring those two worlds together on purpose — domain knowledge from the food industry is my edge when designing the kind of niche B2B tools an average developer wouldn't think to build.
 
 - 🔭 **I'm currently working on** — portfolio projects for my junior job hunt: a React blog (Prismic headless CMS) and a live forex tracker
 - 🌱 **I'm currently learning** — Next.js and TypeScript
