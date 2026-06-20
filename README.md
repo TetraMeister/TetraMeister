@@ -16,7 +16,7 @@ Frontend developer mid-career-switch. By day a **food technologist** (fish compe
 - 🌱 **I'm currently learning** — Next.js and TypeScript
 - 👯 **I'm looking to collaborate on** — open-source React projects and niche B2B tooling for the food industry
 - 🤔 **Open to** — junior frontend roles (available from ~August 2026)
-- 💬 **Ask me about** — React architecture, OOP patterns in JS, or how 5+ years in food tech transfers into software
+- 💬 **Ask me about** — React architecture, OOP patterns in JS, or how 2 years in food tech transfers into software
 - 📫 **How to reach me** — [LinkedIn](https://www.linkedin.com/in/łukasz-skrzypczyński-26759b318/)
 - ⚡ **Fun fact** — 10 years playing guitar (blues / funk / fusion jazz)
 
