@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/TetraMeister">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=560&lines=Frontend+Developer+(React+%2B+TypeScript);Food+technologist+turning+developer;Building+my+portfolio+for+a+junior+role" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=560&lines=Frontend+Developer+(React);Food+technologist+turning+developer;Building+my+portfolio+for+a+junior+role" alt="Typing SVG" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@ Frontend developer mid-career-switch. By day a **food technologist** (fish & sea
 
 - **JavaScript Developer** — DevMentor (`js-2026-003`)
 - **React Developer** — DevMentor (`react-2026-003`)
-- **Using AI in Business Development** - Google (`a4a51075-0299-4639-b158-16e5b6402cdf `)
+- **Using AI in Business Development** - Google (`a4a51075-0299-4639-b158-16e5b6402cdf`)
 
 ---
 
