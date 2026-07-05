@@ -53,8 +53,11 @@ Frontend developer mid-career-switch. By day a **food technologist** (fish compe
 ### 📊 GitHub stats
 
 <p align="center">
-  <img width="410" src="https://github-stats-extended.vercel.app/api?username=TetraMeister&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="410" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TetraMeister&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="70%" src="https://github-stats-extended.vercel.app/api?username=TetraMeister&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TetraMeister&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
