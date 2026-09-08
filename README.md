@@ -41,12 +41,12 @@ Frontend developer mid-career-switch. By day a **food technologist** (fish compe
 
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
-| **[React-Blog-App](https://github.com/TetraMeister/React-Blog-App)** | Blog powered by a headless CMS with client-side routing | Prismic, Redux Toolkit, React Router v6, styled-components |
+| **[React-Blog-App](https://github.com/TetraMeister/React-Blog-App)** [[Live]](https://reactblogsiteproject.netlify.app/) | Blog powered by a headless CMS with client-side routing | Prismic, Redux Toolkit, React Router v6, styled-components |
 | **[React-Exchange-App](https://github.com/TetraMeister/React-Exchange-App)** | Live currency exchange-rate tracker | Redux Toolkit, Frankfurter API, styled-components |
-| **[React-Form-Lib](https://github.com/TetraMeister/React-Form-Lib)** | Multi-step neumorphic form library | Compound components, React Hook Form + Zod |
+| **[React-Form-Lib](https://github.com/TetraMeister/React-Form-Lib)** [[Live]](https://neuromorphicform.netlify.app/) | Multi-step neumorphic form library | Compound components, React Hook Form + Zod |
 | **[Github-SDK-CRUD](https://github.com/TetraMeister/Github-SDK-CRUD)** | A GitHub SDK built test-first | OOP class design, Jest (TDD), Webpack |
 | **[Excursions-JS-App](https://github.com/TetraMeister/Excursions-JS-App)** | Vanilla-JS app, no framework | JavaScript, DOM, modules |
-| **[HTML-CSS-RWD](https://github.com/TetraMeister/HTML-CSS-RWD)** | Responsive layout fundamentals | HTML, SCSS, RWD |
+| **[HTML-CSS-RWD](https://github.com/TetraMeister/HTML-CSS-RWD)** [[Live]](https://tetrameister.github.io/HTML-CSS-RWD/) | Responsive layout fundamentals | HTML, SCSS, RWD |
 
 ---
 
